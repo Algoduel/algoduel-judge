@@ -1,0 +1,13 @@
+# Сборка
+/bin/
+*.out
+a.out
+/tmp/
+
+# Редакторы и ОС
+.idea/
+.vscode/
+.DS_Store
+
+# Секреты
+.env
